@@ -8,3 +8,12 @@ Tickets showcase a pie chart for pending tickets with respect to their priority 
 Ability to search for tickets by code
 
 Can view pending tickets and completed tickets with respect to each Listing in the customers, departments and employees category
+
+
+LANGUAGES/PACKAGES USED: 
+
+React.js, React-Router-DOM, Redux, Redux Thunk, Node.js, 
+Express.js, MongoDB, 
+JWT, Bcrypt.JS, Validator, 
+Sweet Alert 2, Bootstrap, 
+Reactstrap, CSS.
